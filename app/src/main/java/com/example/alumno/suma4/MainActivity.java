@@ -93,6 +93,7 @@ public class MainActivity extends AppCompatActivity {
             String n4=String.valueOf(n3);
             //yaaaaaaaaaaaa
             Toast.makeText(getApplicationContext(),"EL RESULTADO ES "+n4,Toast.LENGTH_SHORT).show();
+            System.out.println("AAAAAAAA");
         }
 
     }
