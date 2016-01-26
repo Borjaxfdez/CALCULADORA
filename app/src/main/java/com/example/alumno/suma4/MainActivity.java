@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
             double n2=Double.parseDouble(t2);
             double n3=n1/n2;
             String n4=String.valueOf(n3);
+            //yaaaaaaaaaaaa
             Toast.makeText(getApplicationContext(),"EL RESULTADO ES "+n4,Toast.LENGTH_SHORT).show();
         }
 
